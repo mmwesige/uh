@@ -1,0 +1,45 @@
+html, body {
+	font-family:Verdana,serif;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	text-align: center;
+}
+.header img {
+	float: left;
+	width: 100px;
+	height: 100px;
+	background: #555;
+}
+ .header h1 {
+	position: relative;
+	top: 18px;
+	left: 10px;
+}
+/* Style all font awesome icons */
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
